@@ -2,7 +2,7 @@
 
 This project is an implementation of the Connect Four (4-in-a-row) game  written in C , developed as part of an academic assignment  in a Computer Science course 🎓.
 
-🔧 Features ⚙️
+Features -
 
 🧩 Game board initialization and printing
 
@@ -20,7 +20,7 @@ This project is an implementation of the Connect Four (4-in-a-row) game  written
 
 🛠️ Technical Details 
 
-💻 Language: C
+ Language: C
 
  2D arrays for board representation
 
